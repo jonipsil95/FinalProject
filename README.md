@@ -36,4 +36,4 @@ Part 2 (Activate frontend and backend) :
 
 9.On the server terminal, run the command 'nodemon server.js'
 10.On the clientVite terminal, run the command 'npm run dev'
-םפ
+
