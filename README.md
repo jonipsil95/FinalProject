@@ -1,5 +1,5 @@
 Final Project - Developarty
-Project Description
+Project Description :
 This is a Full-Stack project that serves as a social network for programmers.
 Users can upload their projects, add new friends, receive feedback,
 likes, and save projects as favorites.
